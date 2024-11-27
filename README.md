@@ -3,9 +3,8 @@
 2. Testing
 3. API
 
-///////////////////////////////////////////////////////////
 *Disclaimer* In the spirit of complete transparency, I would like to note that I am new to Docker, and was able to containerise my project by investing a bit more time upon completing the mandatory aspects of the assignment.
-///////////////////////////////////////////////////////////
+
 
 1. Steps to Run:
 Please pull the image from my repository - https://hub.docker.com/r/damiankfdocker/productmanagement-api
@@ -24,11 +23,10 @@ Providing the necessary dependencies are available on the host machine, run the 
 
 
 
-2 Testing:
+2. Testing:
 
 There are a series of Unit Tests available in the ProductManagement.Tests project. 
 These tests have been written with the ProductService in mind, which is relied upon by the Product and Category controllers.
-
 
 
 3. API:
