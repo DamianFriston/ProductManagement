@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ag-grid-react": "^32.3.3",
+    "antd": "^5.22.2",
+    "apexcharts": "^4.0.0",
+    "primereact": "^10.8.4",
+    "react-apexcharts": "^1.6.0"
+  }
+}

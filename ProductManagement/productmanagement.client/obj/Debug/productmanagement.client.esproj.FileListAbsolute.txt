@@ -1,0 +1,4 @@
+C:\Users\Damia\Dropbox\MyLifeInAFolder\AllRepositorys\2\ProductManagement\productmanagement.client\obj\Debug\productmanagement.client.esproj.CoreCompileInputs.cache
+C:\Users\Damia\Dropbox\MyLifeInAFolder\AllRepositorys\Docker_Dunnhumby\ProductManagement\productmanagement.client\obj\Debug\productmanagement.client.esproj.CoreCompileInputs.cache
+C:\Users\Damia\Dropbox\FINALSTAGES\ProductManagement\productmanagement.client\obj\Debug\productmanagement.client.esproj.CoreCompileInputs.cache
+C:\ProdcutsAPI\ProductManagement\productmanagement.client\obj\Debug\productmanagement.client.esproj.CoreCompileInputs.cache
